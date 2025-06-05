@@ -18,7 +18,6 @@ DOMAIN-SUFFIX,changeip.com
 DOMAIN-SUFFIX,myddns.rocks
 DOMAIN-SUFFIX,ddnsfree.com
 DOMAIN-SUFFIX,dyndns.org
-DOMAIN-SUFFIX,dnsapi.cn #似乎是会查询的公用ip返回api
 DOMAIN-SUFFIX,api.ipify.org #似乎是会查询的公用ip返回api
 DOMAIN-SUFFIX,api.nn.ci #似乎是会查询的公用ip返回api
 DOMAIN-SUFFIX,checkip.synology.com
