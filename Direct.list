@@ -18,12 +18,13 @@ DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,zhongdajinshi.com
 DOMAIN-SUFFIX,ainvest.com
 DOMAIN-SUFFIX,lighthorse.io
-
+DOMAIN-SUFFIX,myhexin.com
 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,synology
+DOMAIN-KEYWORD,myhexin
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
