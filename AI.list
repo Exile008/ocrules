@@ -33,3 +33,13 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,truthsocial.com
+# 按域名精确匹配
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN,tv.applemusic.com
+DOMAIN,uts-api.itunes.apple.com
+DOMAIN,tv.apple.com
+DOMAIN,known-issues.apple.com
+DOMAIN,linear.tv.apple.com
